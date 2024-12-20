@@ -53,4 +53,8 @@ npx shadcn@latest init
 ```
 npx shadcn@latest add input  button scroll-area select sheet tabs textarea tooltip
 ```
+4. Install Framer motion
+```
+npm i framer-motion
+```
 
