@@ -15,6 +15,16 @@ const Home = () => {
               I excel at Full Stack Development and proficient in various technologies and programming languages.
             </p>
           </div>
+          <div className="flex flex-col xl:flex-row items-center gap-8">
+            <Button
+              variant="outline"
+              size="lg"
+              className="uppercase flex items-center gap-2">
+              <span>Download CV</span>
+            </Button>
+            <div className="mb-8 xl:mb-0">socials</div>
+          </div>
+          {/* photo */}
           <div>photo</div>
         </div>
       </div>
