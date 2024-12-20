@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## STEPS
+1. Install Next JS
+```
+npx create-next-app@latest
+```
+
+2. Install shadcn/ui
+```
+npx shadcn@latest init
+```
+- style : default
+- base color : slate
+- css var : no
+
+3. Add ui components
+```
+npx shadcn@latest add input  button scroll-area select sheet tabs textarea tooltip
+```
+
