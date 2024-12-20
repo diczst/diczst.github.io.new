@@ -22,6 +22,9 @@ const Header = () => {
                             <Button>Hire Me</Button>
                         </Link>
                     </div>
+                    <div className='xl:hidden'>
+                        mobile nav
+                    </div>
                 </div>
             </div>
         </header>
