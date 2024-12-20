@@ -57,4 +57,7 @@ npx shadcn@latest add input  button scroll-area select sheet tabs textarea toolt
 ```
 npm i framer-motion
 ```
-
+5. Install React-icons
+```
+npm i react-icons
+```
